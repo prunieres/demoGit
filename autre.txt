@@ -1,1 +1,2 @@
-Cecei est un fichier de qualité
+Ceci est un fichier de qualité
+ça c'est juste pour vérifier que j'ai bien compris
